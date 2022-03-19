@@ -1,0 +1,47 @@
+
+01. what is Git ?
+
+    = Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+
+02. What is GitHub
+
+    = Git is a specific open-source version control system created by Linus Torvalds in 2005. Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.
+
+
+
+
+
+=========================================================================================================================================
+
+
+                ======================================= Defarence Git VS GitHub==========================================
+
+
+                        =================== Git ========================
+
+                * tool/software
+                * change control/version control
+                * provides CLI(Command Line Interface)
+                * Installed and maintained locally
+                * More than 56 million users
+                * Founded in 2008
+                * Owned by Microsoft
+                
+
+
+                =================== GitHub ========================
+
+
+
+
+                * service 
+                * host git/repository/folder/source code
+                * provides GUI interface
+                * maintained on cloud/web
+                * Released: April 7, 2005,
+                * Python, C, C++, Perl, Tcl
+                * Linus Torvalds(Developer of Linux kernel) and Junio C Hamano
+                
+
+
