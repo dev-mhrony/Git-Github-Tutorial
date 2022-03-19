@@ -257,6 +257,18 @@
 
 
 
+21. Git Update >>>>
+    
+    Code:   $ git add.
+            $ git status (note: Check this File)
+            $ git commit 
+            $ git push -u origin main 
+
+
+            Check this Image Link ( https://drive.google.com/file/d/1Hy5EiOeaBMos3rzfJ1HXfyfzEh_vf89S/view?usp=sharing )
+
+
+
 
 
 
