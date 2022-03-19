@@ -1,0 +1,94 @@
+
+                                                         GitBash Short Explain
+
+
+
+            01. Git version check >>
+
+                    Code: $ git --version
+
+            02. Gitbash cleaning >>
+                    Code: $ Clean
+
+            03. User name config >>>>
+                    Code: $ git config --global user.name "MH-RONY"
+
+            04. user name checking >>>>
+                    Code: $ git config --global user.name
+
+            05. Email name config >>
+                    Code: $ git config --global user.email "designer.rony@gmail.com"
+
+            06. user name checking >>>>
+                    Code: $ git config --global user.email
+
+            07. user name and email checking >>>
+                 Code: $ git config --list
+
+            08. Current directory checking >>>
+                Code: $ pwd
+
+            09. All directory checking >>>>
+                Code: $ ls
+
+            10. All directory with hidden files checking
+                Code: $ ls -a
+
+            11.Go next folder 
+                Code: $ cd filename
+
+            12. back one folder
+                Code: $ cd ../
+
+            13. file Any Type Create
+               Code: $ touch "FIle Name.Extention"
+
+            14. open current file
+                Code: $ start "file name"
+
+            15. Git Init/Flow
+                Code: $ git init
+
+            16. Show Hidden File List
+                Code : ls -lart
+
+            17. Current status in Git
+                Code: $ git status 
+
+            18. Taken on stage from Untracted
+                 code : git add " File name. Extention"
+
+            19. To take all the files from Antrack to the stage.
+                 code : $ git add -A
+            
+            20. File Reset 
+                  Code: $ git reset
+            
+            21. Do GitHub Commit
+                    Code: $ git commit -m "Comment"
+
+            22.  Git Commit to Reset 
+                    Code: $ git reset HERD~
+            
+            23. Connect GitHub /  Local TO global
+                     Code:  $ git branch -M main
+                            $ git remote add origin  " URL "
+                            $ git push -u origin main
+
+            24.Git Update >>>>
+                Code:   $ git add.
+                        $ git status (note: Check this File)
+                        $ git commit 
+                        $ git push -u origin main 
+
+
+
+
+
+
+=============================================== Happy END ===================================================
+
+
+
+
+                                                Thank You 

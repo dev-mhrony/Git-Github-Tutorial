@@ -253,7 +253,7 @@
 20. Connect GitHub /  Local TO global
         Code: $ git branch -M main
               $ git remote add origin  " URL "
-              git push -u origin main
+              $ git push -u origin main
 
 
 
