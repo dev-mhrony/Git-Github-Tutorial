@@ -257,7 +257,8 @@
 
 
 
-21. Git Update >>>>
+21. Git Update >>>> 
+                    Note: Fastly Save Our Editing Code. 
     
     Code:   $ git add.
             $ git status (note: Check this File)
