@@ -1,0 +1,44 @@
+
+
+
+
+01. Download "Code Editor" => (VS Code/Atom/ Sublime Text/ Notepad++/ Bluefish/ Brackets/ Codeshare.io/ VIM, or etc.)
+
+02. Install "Code Editor" = => Let's install a code editor. Such as => (VS Code/Atom/ Sublime Text/ Notepad++/ Bluefish/ Brackets/ Codeshare.io/ VIM, or etc.) 
+
+03. Download "Gitbash" (not: Git Bash for Windows is a package that is comprised of two parts:
+
+   			===>> "Git": It is a version control system (VCS) which tracks the file changes, commonly used for programming in a team setting 
+
+			===>> "Bash" : It is a unix shell command line interface commonly used in different linux machines. Bash (Unix shell )
+-
+04. Install "Gitbash".
+-
+-
+====================================== HOW TO START "GIT BASH" Work =================================
+-
+-
+05. Open "Git Bash" => ( Click Mouse Right Button => Go to "Git Bash") ======*NOTE (Where I will code the git base. And from there we'll upload to GitHub's repository.)  ++++NOTE Check This Link : ( https://drive.google.com/file/d/1x_GsEoW4aBIdewibz2Zljvcau1bh-3pc/view?usp=sharing )  
+
+06. Open Folder => *NOTE (The folder in which I will work with "GitBase" must first be opened.)
+
+07. Open Code Editor => *NOTE ( Where to code HTML CSS and Etc should be started.)
+
+
+
+
+=============================== Impotent Note=================================
+
+If the 5th, 6th and 7th work is combined, then it can be done through VS Code.
+
+=============================== Impotent Note=================================
+
+
+
+
+08. Open VS COde ( Note: Check This Link =>  https://drive.google.com/file/d/1veB9cAUDWSWntPCUsDqfU1QRfVzh0_16/view?usp=sharing )
+
+09. Open File Location Bar ( Note: Open Shotcart is =>> ""Ctrl + B"" <<= Check This Link => https://drive.google.com/file/d/11Q4-EJpeEpm_4ldhsE_hPF3LnczyECvg/view?usp=sharing )
+
+10. Open Terminal Bar (Note: Open Shotcart is =>>"" Ctrl + Shift + ~ "" <== Check This Link => https://drive.google.com/file/d/11Q4-EJpeEpm_4ldhsE_hPF3LnczyECvg/view?usp=sharing )
+

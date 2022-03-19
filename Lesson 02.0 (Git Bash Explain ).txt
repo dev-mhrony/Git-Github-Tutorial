@@ -1,0 +1,212 @@
+01. Open VS COde ( https://drive.google.com/file/d/1Mn338jW5YCHDNI5DFYw5igrVxH1bJEX8/view?usp=sharing )
+
+02. Open File Bar ( Ctrl + O / Ctrl + K ) Check This link ( https://drive.google.com/file/d/1dxA9iJ3v3BsrjJCbU90G_L5aDM0P5mPJ/view?usp=sharing )
+
+03. Open Tarminal Bar ( Ctrl + Shift + ~ ) Check This Link ( https://drive.google.com/file/d/1epcgFQFpau3sF8Tsynb_hHmjyNZxDete/view?usp=sharing )
+
+04. Set GitBash ( https://drive.google.com/file/d/1kmUpUuUYanEHYBKmDTrXVt-LU5ZqrczT/view?usp=sharing )
+
+
+
+============================================== Git Introduction My self=================================
+
+
+05. Introduction Name By GitBash ==>
+
+        ======Name Set======
+
+            Code = git config --global user.name ""
+            Code = git config --global User.name. MH RONY        
+                Note: The name of the code that is doing "2" commas. However, commas cannot be used when entering names.
+                Check this link : ( https://drive.google.com/file/d/1gqaFdvMcWmuN4nYfK4yDDSMO03w8dU8g/view?usp=sharing )
+
+        ======Name Show======
+            Code = git config --global user.name 
+                Note: There is no need to give anything after Name. Just enter the result will show below.
+                Check This Link : ( https://drive.google.com/file/d/1KVqvnsm5ik4ceOFekvz0BbEm9KbpyLyA/view?usp=sharing)
+
+
+
+06  Introduction "Email" By GitBash 
+
+        ======Email Set======
+
+                    Code = git config --global user.email ""
+                    Code = git config --global User.email. mh.rony.dhanvi@gmail.com        
+                        Note: The name of the code that is doing "2" commas. However, commas cannot be used when entering email.
+                        Check this link : ( https://drive.google.com/file/d/1Hn6QIrKZSf7cg946nzl6uEQCKrxUVoqm/view?usp=sharing )
+
+                ======Email Show======
+                    Code = git config --global user.email 
+                        Note: There is no need to give anything after email. Just enter the result will show below.
+                        Check This Link : ( https://drive.google.com/file/d/1PKLSK5q7RjvhobyF6DG6_R0BybKNJVcG/view?usp=sharing )
+
+
+
+============================================== GitBash Clean=================================
+
+
+
+07. Tarminal Clean ==>
+            Use the code below to clean the terminal.
+            
+            ============ 
+            $ clean 
+            ============
+
+
+==========================>>>>>>>>>>>>>> Create Folder <<<<<<<<<<<<========================
+
+            Code: mkdri
+
+
+
+============================================== Git Init/ Flow=================================
+
+
+
+08. Git Init/Flow (With this code, Gitbase will follow the folder that we are working on all the time or will notice what changes will be made.)
+
+            Code: $ git init
+
+                Note: With this code, Gitbase will follow the folder that we are working on all the time or will notice what changes will be made. And will create a new hidden file Gitbase by giving Git Init. He will keep an eye on the files.
+
+                 Check this link ( https://drive.google.com/file/d/1zG1Kg5mnDuiglZ6HNo0bBh-BxUvXqnIR/view?usp=sharing ) 
+
+
+
+
+=============================================="LS" is used to see if there is anything in the folder. =================================
+
+
+09. Show File List (LS)
+    
+        Code: $ ls 
+
+            Note: "LS" is used to list what kind of files and what are in the folder I am working on.
+
+                Check This Image Link - ( https://drive.google.com/file/d/1rD-FVyf5eSim7yPF4TSw0bzjLGpRnA7j/view?usp=sharing )
+
+
+
+
+==============================================Show Hidden File List () =================================
+
+
+
+10. This code is used to view the hidden file list.
+
+        Code : ls -lart
+        
+            Note: This code is used to see the hidden file list in the folder I am working with.
+                
+                Check This Image Link : ( https://drive.google.com/file/d/1ifMVjaXzVIV3xXNhLw8nUGD6rrQ0UyuE/view?usp=sharing ) 
+
+
+
+
+==============================================New File Create ( Touch/ index.html ) =================================
+
+
+
+11. New Any Type File Create
+
+            Code: $ touch "FIle Name.Extention"
+
+                EX. $ tuch index.html 
+            
+                    Note: If you want to create any new type of file such as HTML, Css, etc., you have to write the following code.
+                
+                   Check This Image Link ( https://drive.google.com/file/d/1GXAOiKaLZknrbjYENwin8H4Gd4_KjV4D/view?usp=sharing ) 
+
+
+
+
+==============================================Diagnosis of current git =================================
+
+
+
+12. Current status in Git
+
+        Code: $ git status 
+
+            Note: Git status is used to know the current status of the git you are working with. This makes it easy to determine the current state of the git.
+
+                Check This Image Link : ( https://drive.google.com/file/d/1Sxk1QRIyA9Q83mIoOYTXkZNS9srN0bu1/view?usp=sharing )
+
+
+
+
+
+************************ Note:  Commit = Save *************************
+
+
+*************************************************************************************************************************
+
+------------------------------------2.2 Git Basics - Recording Changes to the Repository----------------------
+                                           
+                       link : https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+
+*************************************************************************************************************************
+
+
+
+
+============================================== Steps of Git Processing  =================================
+
+ >>>>>>>>>>>>>>>>> Untracked >>>> Stage >> Unmodified >> MOdified <<<<<<<<<<<<<<<<<<<<<<<
+                    MOdified >>> Stage
+                    Unmodified >>> Untracked
+                    Unmodified >>> MOdified
+
+
+
+
+=========================== Taken on stage from Untracted====================
+
+
+13. "1" file picked up on stage from Untracted
+       
+        code : git add " File name. Extention"
+          
+            EX: git add index.html
+
+                 Check This Image Link ( https://drive.google.com/file/d/1K7IB6hL6xoigItUrlAwmoy0_GSADud67/view?usp=sharing,  https://drive.google.com/file/d/1X22WwTJAIwKJHVl5ds4_6ri1WgbfVqGW/view?usp=sharing) 
+
+
+================================================ All FIle Untracked To State==============================
+
+
+14. Untracked > Track === To take all the files from Antrack to the stage.
+
+         code : git add -A
+          
+            Note: "A" = All
+
+                 Check This Image Link (https://drive.google.com/file/d/1SO6wS5o4fL1SAfjImIW4tjoqKPKnJv5I/view?usp=sharing, https://drive.google.com/file/d/1t0RyKFWuKYBiKF5dFsO8e6m4dfZRCPH_/view?usp=sharing )
+
+
+
+
+15. File Reset 
+        
+        Code: $ git reset 
+        
+            Note: All File Reset This Code 
+        
+                Check This Image Link (https://drive.google.com/file/d/15Y1_8q0t6aqXKfeeuyJa101NVdHU8Kba/view?usp=sharing, https://drive.google.com/file/d/1vog8vfyylLKL02UpldD1LMWb9-zpjUvK/view?usp=sharing )
+
+
+
+
+================================================Inside a folder==================================================
+
+16. To enter a folder, use the following command.
+        Code: cd " Folder Name"
+            Ex: cd new
+                Check This Image Link ( https://drive.google.com/file/d/1-iw31Ogmz7ejrOwMReJexr2S7ZXtSjtw/view?usp=sharing )
+
+
+
+
+17. 
