@@ -55,12 +55,6 @@
             ============
 
 
-==========================>>>>>>>>>>>>>> Create Folder <<<<<<<<<<<<========================
-
-            Code: mkdri
-
-
-
 ============================================== Git Init/ Flow=================================
 
 
@@ -177,9 +171,9 @@
 ================================================ All FIle Untracked To State==============================
 
 
-14. Untracked > Track === To take all the files from Antrack to the stage.
+14. To take all the files from Antrack to the stage.
 
-         code : git add -A
+         code : $ git add -A
           
             Note: "A" = All
 
@@ -209,4 +203,66 @@
 
 
 
-17. 
+
+================================================To be out of any folder==================================================
+
+
+17.  If you want to get out of a folder, you can follow the code below. 
+
+        Code: cd ..
+        
+            Note:  ".." It is basically used to mean coming out of a file.
+
+                Check the Image Link ()
+
+
+
+================================================ "Git Commit" =================================================
+
+
+
+                >>>>>>>>>>>>>>>>> Not: Untracked >>> Stage >> Commit >>> GitHub <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+ 
+
+
+18. Do GitHub Commit =====
+
+        Code: $ git commit -m "Comment"
+
+            Ex: $git commit -m "Latest Update"
+
+                 Note:  This is a preview of armchair activist GitHub. This is basically done so far as some edit delete etc. You have to use it to save it all.
+
+                    Cleck This Image Link : ( https://drive.google.com/file/d/1lrddxr1ADS3OtG3-LIsZMYLY9U1qilcY/view?usp=sharing ) 
+
+
+
+================================================ "Git Commit to Reset" =================================================
+
+19. Git Commit to Reset / Go back to the previous state from the Git Commit
+
+        Code: $ git reset HERD~
+
+        Note: Git Commit to Reset / Go back to the previous state from the Git Commit. 
+
+
+
+
+
+20. Connect GitHub /  Local TO global
+        Code: $ git branch -M main
+              $ git remote add origin  " URL "
+              git push -u origin main
+
+
+
+
+
+
+=============================================== Happy END ===================================================
+
+
+
+
+             
